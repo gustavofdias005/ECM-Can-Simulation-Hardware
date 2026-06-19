@@ -1,0 +1,9 @@
+{
+    "start_byte": "0x20",
+    "end_byte": "0x1f",
+    "id_pedal": "0x100",
+    "id_rpm": "0x101",
+    "id_map": "0x200",
+    "id_temp": "0x201",
+    "id_tbi": "0x300"
+}
